@@ -49,7 +49,7 @@
   
 Press the below button to  deploy on Heroku <br>
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OO7ROBOT/YoutubeDownloaderBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheAloneX/YoutubeDownloaderBot)
 
 
 </details>
